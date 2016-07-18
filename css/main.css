@@ -7,6 +7,8 @@
 /* Styles to hide content that should not be visible until the user takes an action. */
 .user-info {
     display: none;
+    font-size: 18px;
+    margin-top: 5px;
 }
 .details {
     display: none;
